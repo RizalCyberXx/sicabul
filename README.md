@@ -13,4 +13,7 @@ $ pip install requerements
 
 $ pkg install git
 
-$ git clone
+$ git clone https://github.com/RizalCyberXx/sicabul
+$ cd sicabul
+$ python sicabul_enc.py
+
