@@ -1,2 +1,16 @@
-# sicabul
-Terima kasih dah kunjung ke sini
+#klo mo rikod silahkan nyai
+$ pkg update && upgrade
+
+$ pkg update && upgrade
+
+$ pkg install python
+
+$ pipinstall requests
+
+$ pip install mechanize
+
+$ pip install requerements
+
+$ pkg install git
+
+$ git clone
